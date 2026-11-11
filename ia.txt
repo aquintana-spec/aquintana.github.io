@@ -1,0 +1,21 @@
+# Bitácora de Inteligencia Artificial
+
+## Consulta 1
+- **Fecha:** DD/MM/AAAA
+- **Herramienta utilizada:** ChatGPT / Gemini
+- **Objetivo:** Generar o corregir los estilos CSS para las tarjetas de proyectos.
+- **Prompt completo:** "Creá un CSS inicial con variables de color..."
+- **Parte utilizada:** Los estilos de la clase .tarjeta y el header.
+- **Cambios realizados por mí:** Cambié los colores principales para ajustarlos a mi planificación.
+- **¿Qué comprendí?:** Cómo funcionan las variables CSS en `:root`.
+- **¿Qué descarté y por qué?:** Descarté las animaciones pesadas porque la consigna pide un diseño inicial 0.1.
+
+## Consulta 2
+- **Fecha:** DD/MM/AAAA
+- **Herramienta utilizada:** ChatGPT / Gemini
+- **Objetivo:** Revisar la estructura HTML semántica.
+- **Prompt completo:** "Revisá mi HTML para detectar errores de etiquetas..."
+- **Parte utilizada:** Ajuste de etiquetas `<article>` dentro de `<section>`.
+- **Cambios realizados por mí:** Reescribí los id de los enlaces internos para que coincidan.
+- **¿Qué comprendí?:** La diferencia entre `<section>` y `<article>`.
+- **¿Qué descarté y por qué?:** Nada, apliqué las sugerencias básicas.
